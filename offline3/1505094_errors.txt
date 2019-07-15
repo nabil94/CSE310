@@ -1,0 +1,19 @@
+Error at line 15; missing
+
+Error at line : 17: variable already declared
+
+Error at line 18 : type mismatch
+
+Error at line 19 : array index cannot be a float
+
+Error at line 20 : invalid operands of types
+
+Error at line 21 : invalid operands of types
+
+Error at line 23 : g(a) does not return anything
+Error at line 25 : variable was not declared in this scope
+Error at line 28 : arguments number mismatch
+
+Error at line 29 i() function doesn't exist
+
+Total Errors : 10
